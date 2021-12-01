@@ -1,0 +1,6 @@
+## After finding Santa's account, what is their position in the company?
+
+Try changing the user_id value in the address bar, and you'll see that the web application tries to load another user's information. Try different numbers between the values 1 - 20 
+until you find a user who could have been responsible for the tampering on the system.
+
+- Santa's User Id id = 1
