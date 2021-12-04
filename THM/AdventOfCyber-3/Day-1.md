@@ -16,4 +16,5 @@ Do the same as above, try to tamper the value from -1-20 and eventually you will
 After reverting the changes "Grinch" made to the inventory management system, you get a flag.
 ```THM{AOC_IDOR_2B34BHI3}```
 
+<h3><b>That's it for Day- 1</b></h3>
 
